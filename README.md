@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shristi
-- 👀 I’m interested in python, html, css, bootstrap, javascript
-- 🌱 I’m currently learning sql
+- 👀 Aspiring Data analyst
+- 🌱 Python, mysql, Ms Excel, Tableau
 - 📫 How to reach me shristi.s1010@gmail.com
 
 <!---
